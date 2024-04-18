@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/YunHead.qml</file>
+        <file>qml/FileStyle.qml</file>
+        <file>qml/MainMenu.qml</file>
+        <file>qml/MainContent.qml</file>
+        <file>qml/Login.qml</file>
+        <file>qml/SingleFileDownLoad.qml</file>
+        <file>qml/FirstPage.qml</file>
+        <file>qml/SecondPage.qml</file>
+        <file>qml/ThirdPage.qml</file>
+        <file>qml/MyTextArea.qml</file>
+        <file>qml/MyImage.qml</file>
+        <file>qml/ShareDialog.qml</file>
+        <file>qml/UuidList.qml</file>
+        <file>qml/SharedFiles.qml</file>
+        <file>qml/MyMusic.qml</file>
+        <file>qml/MyVideo.qml</file>
+        <file>qml/RegUser.qml</file>
+    </qresource>
+</RCC>
